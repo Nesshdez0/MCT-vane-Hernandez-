@@ -1,0 +1,5 @@
+print("hola")
+print("soy Vanessa")
+print("estoy en 9D")
+print("mi comida favorita es cualquier tipo de pasta")
+print("lo que le quiero decir es que tengo problemas de internet y no me puede escuhar ")
